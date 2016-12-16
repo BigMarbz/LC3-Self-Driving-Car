@@ -2,6 +2,8 @@
 Wrote the LC3 program for a self-driving robotic car that would follow a single black line on a given track.
 We decided to implement the control program for the robot car using the finite-state machine methodology and creating different states with different outputs at different points in the robots movement to stay on the line.
 
+![alt tag](https://raw.githubusercontent.com/BigMarbz/LC3-Self-Driving-Car/blob/master/fsm.png)
+![alt tag](https://github.com/BigMarbz/LC3-Self-Driving-Car/blob/master/fsm.png)
 
 .orig x3000
 
